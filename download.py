@@ -45,6 +45,6 @@ for cat in CATEGORIES:
     
     # Tien hanh tai
     download_file(review_url, review_path)
-    # download_file(meta_url, meta_path)
+    download_file(meta_url, meta_path)
 
 print("\nHOAN THANH TAI TOAN BO DU LIEU!")
